@@ -1,4 +1,4 @@
-# Docker template for PHP projects
+# Image Gallery starter project
 This repository provides a starting point for the Image Gallery challenge assignment. Can you add the missing functionality?
 
 It contains:
